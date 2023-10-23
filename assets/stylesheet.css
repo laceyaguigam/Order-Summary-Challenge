@@ -2,13 +2,15 @@
     /* doesnt work */
     font-family: 'Outfit', sans-serif;
     font-family: 'Red Hat Display', sans-serif;
-        /* doesnt work */
+        
    
 }
 
+                                        /* background */
 body {
  background-image: url(../images/pattern-background-desktop.svg);
  background-repeat: no-repeat;
+ background-size: contain;
 }
 
 p {
