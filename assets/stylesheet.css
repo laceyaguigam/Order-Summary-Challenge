@@ -3,7 +3,11 @@
     font-family: 'Outfit', sans-serif;
     font-family: 'Red Hat Display', sans-serif;
         /* doesnt work */
-    background-image: url('pattern-background-desktop.svg');
+   
+}
+
+body {
+ background-image: url(../images/pattern-background-desktop.svg);
 }
 
 p {
