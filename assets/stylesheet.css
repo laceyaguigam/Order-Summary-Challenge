@@ -25,3 +25,8 @@ p {
     background-color: hsl(225, 100%, 98%);
 
 }
+
+.card-body {
+    background-color: white;
+    background-image:none;
+}
