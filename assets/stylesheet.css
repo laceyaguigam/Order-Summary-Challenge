@@ -24,3 +24,9 @@ p {
     height:500px;
     width: 350px ;
 }
+
+#plan {
+    border: black solid 1px;
+    background-color: hsl(225, 100%, 98%);
+
+}
