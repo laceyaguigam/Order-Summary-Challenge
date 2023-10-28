@@ -23,11 +23,13 @@ p {
                                     /* title */
 #summary {
     background-image:none;
+    background-color: white;
 }
                                     /* Annual Plan Section */
 #plan {
     border: black solid 1px;
-    background-color: hsl(225, 100%, 98%);    
+    background-color: hsl(225, 100%, 98%);  
+    background-image: none;  
 }
 
 
